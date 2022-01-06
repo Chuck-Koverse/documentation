@@ -67,7 +67,7 @@ Key principals for designing a Koverse Solution
 
 #.	Koverse is designed to enable the tradeoff of time, cost, complexity and performance for disk.  So whenever possible, a solution should leverage pre-computation of answers and analytics, capture of data in its rawest form and expressive data models.
 #.	Solutions should start small and plan to increase capability over time.  Koverse solutions are agile, so you can adopt the strategy of quickly delivering into production a minimally viable capability to ensure user engagement and buy in, and then scale the capability in size and capability continuously over time.
-#.	Ingest as much data as possible in its rawest form. You never know where your solution evolution will take you so capturing data in its raw form allows you to always go back to source data to easily capture a new insight or support an unanticipated use case without having to go back to original data source.
+#.	Ingest as much data as possible in its rawest form. You never know where your solution evolution will take you so capturing data in its raw form allows you to always go back to the source data to easily capture a new insight or support an unanticipated use case without having to go back to original data source.
 
 Identifying your business or mission challenges
 -----------------------------------------------
